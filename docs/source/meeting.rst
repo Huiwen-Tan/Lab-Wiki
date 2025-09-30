@@ -25,10 +25,7 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 09-29-2025
-     - Jingyi Liu
-     - `Auto-QChem: an automated workflow for the generation and storage of DFT calculations for organic molecules <https://pubs.rsc.org/en/content/articlelanding/2022/re/d2re00030j>`_
-   * - 10-06-2025
+   * - 10-08-2025(Wed 2:30PM)
      - All members
      - Progress Update
    * - 10-13-2025 
@@ -37,6 +34,9 @@ Upcoming Schedule:
    * - 10-20-2025
      - All members
      - Progress Update
+   * - 10-27-2025 
+     - Lewen Wang
+     - `Large language model guided automated reaction pathway exploration <http://doi.org/10.1038/s42004-025-01630-y>`_
 
 Previous Journal Club:
 
@@ -47,6 +47,9 @@ Previous Journal Club:
    * - **Date**
      - **Presenter**
      - **Details**
+   * - 09-29-2025
+     - Jingyi Liu
+     - `Auto-QChem: an automated workflow for the generation and storage of DFT calculations for organic molecules <https://pubs.rsc.org/en/content/articlelanding/2022/re/d2re00030j>`_
    * - 08-25-2025 
      - Yu Xie
      - `UMA: A Family of Universal Models for Atoms <https://arxiv.org/abs/2506.23971>`_
