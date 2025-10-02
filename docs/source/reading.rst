@@ -42,7 +42,7 @@ Distortion Interaction / Activation Strain (DI/AS) Model
   *Angew. Chem. Int. Ed.*, **2017**, 56, 34, 10070-10086. `Link to paper <https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201701486>`_
 
 - Understanding Reactivity with Kohn–Sham Molecular Orbital Theory: E2–SN2 Mechanistic Spectrum and Other Concepts.
-  *J. Comput. Chem.*, **1999**, 20, 1, 114-128. `Link to paper <https://doi.org/10.1002/(SICI)1096-987X(19990115)20:1<114::AID-JCC12>3.0.CO;2-L>`_
+  *J. Comput. Chem.*, **1999**, 20, 1, 114-128. `Link to paper <https://doi.org/10.1002/(SICI)1096-987X(19990115)20:1%3C114::AID-JCC12%3E3.0.CO;2-L>`_
 
 - The Activation Strain Model and Molecular Orbital Theory: Understanding and Designing Chemical Reactions.
   *Chem. Soc. Rev.*, **2014**, 43, 4953-4967. `Link to paper <https://pubs.rsc.org/en/content/articlelanding/2014/cs/c4cs00055b>`_
