@@ -32,7 +32,7 @@ Thermochemistry
 - `Thermochemistry in Gaussian <https://gaussian.com/thermo/>`_
 
 
-Distortion Interaction / Activation Strain (DI/AS) Model
+Distortion Interaction / Activation Strain Model
 --------------------------------------------------------
 
 - Distortion/Interaction Energy Control of 1,3-Dipolar Cycloaddition Reactivity.
