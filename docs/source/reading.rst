@@ -31,7 +31,7 @@ Thermochemistry
 
 - `Thermochemistry in Gaussian <https://gaussian.com/thermo/>`_
 
-- Computational Thermochemistry: Scale Factor Databases and Scale Factors for Vibrational Frequencies Obtained from Electronic Model Chemistries
+- Computational Thermochemistry: Scale Factor Databases and Scale Factors for Vibrational Frequencies Obtained from Electronic Model Chemistries.
   *J. Chem. Theory Comput.*, **2010**, 6, 9, 2872-2887. `Link to paper <https://doi.org/10.1021/ct100326h>`_
 
 
