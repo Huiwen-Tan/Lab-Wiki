@@ -25,18 +25,18 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 10-08-2025(Wed 2:30PM)
-     - All members
-     - Progress Update
-   * - 10-13-2025 
+   * - 10-13-2025
      - Huiwen Tan
-     - `An automated framework for exploring and learning potential-energy surfaces <https://doi.org/10.1038/s41467-025-62510-6>`_
+     - `E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials <https://www.nature.com/articles/s41467-022-29939-5>`_
    * - 10-20-2025
      - All members
      - Progress Update
    * - 10-27-2025 
      - Lewen Wang
      - `Large language model guided automated reaction pathway exploration <http://doi.org/10.1038/s42004-025-01630-y>`_
+   * - 11-03-2025
+     - All members
+     - Progress Update
 
 Previous Journal Club:
 
