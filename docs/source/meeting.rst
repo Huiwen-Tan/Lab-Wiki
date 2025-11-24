@@ -6,7 +6,7 @@ For details about the group's schedule, please contact Professor Zhang to be add
 Progress Update / Journal Club
 --------------------------------
 
-**Every Monday from 10:00 AM to 12:00 AM (Hong Kong time)**, we alternate between a Progress Update and a Journal Club. Join via `Microsoft Teams Link <teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ1OWNhYzAtODk0YS00MTU4LTgyZDUtYjgyZGExYThlMjI4%40thread.v2/0?context=%7b"Tid"%3a"a2c8f93f-126b-4596-a360-8941a8984b08"%2c"Oid"%3a"a01f610e-456a-478e-a980-248fa8edd125"%7d>`_.
+**Every Friday from 3:00 PM to 5:00 PM (Hong Kong time)**, we alternate between a Progress Update and a Journal Club. Join via `Microsoft Teams Link <teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ1OWNhYzAtODk0YS00MTU4LTgyZDUtYjgyZGExYThlMjI4%40thread.v2/0?context=%7b"Tid"%3a"a2c8f93f-126b-4596-a360-8941a8984b08"%2c"Oid"%3a"a01f610e-456a-478e-a980-248fa8edd125"%7d>`_.
 
 - During the **Progress Update**, please share your project progress from the past two weeks — Professor Zhang will join us for helpful discussions.
 
@@ -25,16 +25,17 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 10-13-2025
-     - Huiwen Tan
-     - `E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials <https://www.nature.com/articles/s41467-022-29939-5>`_
-   * - 10-20-2025
+   
+   * - 11-28-2025
+     - Zihan Li
+     - `Automated exploration of the conformational degrees of freedom along reaction profiles - driving a FASTCAR <https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp01721h>`_
+   * - 12-05-2025
      - All members
      - Progress Update
-   * - 10-27-2025 
-     - Lewen Wang
-     - `Large language model guided automated reaction pathway exploration <http://doi.org/10.1038/s42004-025-01630-y>`_
-   * - 11-03-2025
+   * - 12-12-2025
+     - All members
+     - Progress Update
+   * - 12-19-2025
      - All members
      - Progress Update
 
@@ -47,6 +48,12 @@ Previous Journal Club:
    * - **Date**
      - **Presenter**
      - **Details**
+   * - 10-27-2025 
+     - Lewen Wang
+     - `Large language model guided automated reaction pathway exploration <http://doi.org/10.1038/s42004-025-01630-y>`_  
+   * - 10-13-2025
+     - Huiwen Tan
+     - `E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials <https://www.nature.com/articles/s41467-022-29939-5>`_
    * - 09-29-2025
      - Jingyi Liu
      - `Auto-QChem: an automated workflow for the generation and storage of DFT calculations for organic molecules <https://pubs.rsc.org/en/content/articlelanding/2022/re/d2re00030j>`_
