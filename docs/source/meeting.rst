@@ -6,7 +6,7 @@ For details about the group's schedule, please contact Professor Zhang to be add
 Progress Update / Journal Club
 --------------------------------
 
-**Every Friday from 3:00 PM to 5:00 PM (Hong Kong time)**, we alternate between a Progress Update and a Journal Club. Join via `Microsoft Teams Link <teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ1OWNhYzAtODk0YS00MTU4LTgyZDUtYjgyZGExYThlMjI4%40thread.v2/0?context=%7b"Tid"%3a"a2c8f93f-126b-4596-a360-8941a8984b08"%2c"Oid"%3a"a01f610e-456a-478e-a980-248fa8edd125"%7d>`_.
+**Every Thursday from 3:00 PM to 5:00 PM (Hong Kong time)**, we alternate between a Progress Update and a Journal Club. Join via `Microsoft Teams Link <teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ1OWNhYzAtODk0YS00MTU4LTgyZDUtYjgyZGExYThlMjI4%40thread.v2/0?context=%7b"Tid"%3a"a2c8f93f-126b-4596-a360-8941a8984b08"%2c"Oid"%3a"a01f610e-456a-478e-a980-248fa8edd125"%7d>`_.
 
 - During the **Progress Update**, please share your project progress from the past two weeks — Professor Zhang will join us for helpful discussions.
 
@@ -26,16 +26,16 @@ Upcoming Schedule:
      - **Presenter**
      - **Details**
    
-   * - 11-28-2025
-     - Zihan Li
-     - `Automated exploration of the conformational degrees of freedom along reaction profiles - driving a FASTCAR <https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp01721h>`_
-   * - 12-05-2025
+   * - 01-16-2026 (Friday)
+     - Jingyi Liu
+     - Journal Club
+   * - 01-22-2026
      - All members
      - Progress Update
-   * - 12-12-2025
-     - All members
-     - Progress Update
-   * - 12-19-2025
+   * - 01-29-2026
+     - Huiwen Tan
+     - Journal Club
+   * - 02-5-2026
      - All members
      - Progress Update
 
@@ -48,6 +48,9 @@ Previous Journal Club:
    * - **Date**
      - **Presenter**
      - **Details**
+   * - 11-28-2025
+     - Zihan Li
+     - `Automated exploration of the conformational degrees of freedom along reaction profiles - driving a FASTCAR <https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp01721h>`_
    * - 10-27-2025 
      - Lewen Wang
      - `Large language model guided automated reaction pathway exploration <http://doi.org/10.1038/s42004-025-01630-y>`_  
