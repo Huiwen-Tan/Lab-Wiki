@@ -28,7 +28,7 @@ Upcoming Schedule:
    
    * - 01-16-2026 (Friday)
      - Jingyi Liu
-     - Journal Club
+     - `Ab initio characterization of protein molecular dynamics with AI2BMD <https://www.nature.com/articles/s41586-024-08127-z>`_
    * - 01-22-2026
      - All members
      - Progress Update
