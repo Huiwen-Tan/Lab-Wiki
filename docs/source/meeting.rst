@@ -26,16 +26,16 @@ Upcoming Schedule:
      - **Presenter**
      - **Details**
    
-   * - 01-16-2026 (Friday)
-     - Jingyi Liu
-     - `Ab initio characterization of protein molecular dynamics with AI2BMD <https://www.nature.com/articles/s41586-024-08127-z>`_
    * - 01-22-2026
      - All members
      - Progress Update
    * - 01-29-2026
      - Huiwen Tan
-     - Journal Club
-   * - 02-5-2026
+     - `Managing the Computational Chemistry Big Data Problem: The ioChem-BD Platform <https://pubs.acs.org/doi/10.1021/ci500593j>`_
+   * - 02-05-2026
+     - All members
+     - Progress Update
+   * - 02-12-2026
      - All members
      - Progress Update
 
@@ -48,6 +48,9 @@ Previous Journal Club:
    * - **Date**
      - **Presenter**
      - **Details**
+   * - 01-16-2026
+     - Jingyi Liu
+     - `Ab initio characterization of protein molecular dynamics with AI2BMD <https://www.nature.com/articles/s41586-024-08127-z>`_
    * - 11-28-2025
      - Zihan Li
      - `Automated exploration of the conformational degrees of freedom along reaction profiles - driving a FASTCAR <https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp01721h>`_
