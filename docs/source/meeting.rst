@@ -26,18 +26,18 @@ Upcoming Schedule:
      - **Presenter**
      - **Details**
    
-   * - 01-22-2026
-     - All members
-     - Progress Update
    * - 01-29-2026
      - Huiwen Tan
      - `Managing the Computational Chemistry Big Data Problem: The ioChem-BD Platform <https://pubs.acs.org/doi/10.1021/ci500593j>`_
    * - 02-05-2026
      - All members
      - Progress Update
-   * - 02-12-2026
-     - All members
-     - Progress Update
+   * - Chinese New Year 
+     - two weeks
+     - vacation
+   * - 02-26-2026
+     - Lewen Wang
+     - Journal Club
 
 Previous Journal Club:
 
