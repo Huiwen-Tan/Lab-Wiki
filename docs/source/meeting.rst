@@ -25,10 +25,6 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   
-   * - Chinese New Year 
-     - two weeks
-     - vacation
    * - 02-26-2026
      - Lewen Wang
      - Journal Club
@@ -38,6 +34,9 @@ Upcoming Schedule:
    * - 03-12-2026
      - Zihan Li
      - Journal Club
+   * - 03-19-2026
+     - All members
+     - Progress Update
 
 Previous Journal Club:
 
