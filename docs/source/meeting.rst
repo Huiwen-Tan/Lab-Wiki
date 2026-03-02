@@ -49,7 +49,7 @@ Previous Journal Club:
      - **Details**
    * - 02-26-2026
      - Lewen Wang
-     - Journal Club
+     - `A practical inverse design approach for high-entropy catalysts using generative AI <https://www.nature.com/articles/s44160-025-00983-5>`_
    * - 01-29-2026
      - Huiwen Tan
      - `Managing the Computational Chemistry Big Data Problem: The ioChem-BD Platform <https://pubs.acs.org/doi/10.1021/ci500593j>`_
