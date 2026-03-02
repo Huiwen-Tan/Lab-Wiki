@@ -25,9 +25,6 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 02-26-2026
-     - Lewen Wang
-     - Journal Club
    * - 03-05-2026
      - All members
      - Progress Update
@@ -36,6 +33,9 @@ Upcoming Schedule:
      - Journal Club
    * - 03-19-2026
      - All members
+     - Progress Update
+   * - 03-26-2026
+     - Jingyi Liu
      - Progress Update
 
 Previous Journal Club:
@@ -47,6 +47,9 @@ Previous Journal Club:
    * - **Date**
      - **Presenter**
      - **Details**
+   * - 02-26-2026
+     - Lewen Wang
+     - Journal Club
    * - 01-29-2026
      - Huiwen Tan
      - `Managing the Computational Chemistry Big Data Problem: The ioChem-BD Platform <https://pubs.acs.org/doi/10.1021/ci500593j>`_
