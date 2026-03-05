@@ -25,17 +25,17 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 03-05-2026
-     - All members
-     - Progress Update
    * - 03-12-2026
      - Zihan Li
-     - Journal Club
+     - Journal Club 
    * - 03-19-2026
      - All members
      - Progress Update
    * - 03-26-2026
      - Jingyi Liu
+     - Progress Update
+   * - 04-02-2026
+     - All members
      - Progress Update
 
 Previous Journal Club:
