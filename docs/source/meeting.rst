@@ -35,8 +35,8 @@ Upcoming Schedule:
      - All members
      - Progress Update
    * - 04-09-2026
-     - All members
-     - Progress Update
+     - Huiwen Tan
+     - Journal club
 
 Previous Journal Club:
 
