@@ -25,23 +25,18 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   
-   * - 01-16-2026 (Friday)
-     - Jingyi Liu
-     - `Ab initio characterization of protein molecular dynamics with AI2BMD <https://www.nature.com/articles/s41586-024-08127-z>`_
-   * - 01-22-2026
-     - All members
-     - Progress Update
-   * - 01-29-2026
-     - Huiwen Tan
-     - Journal Club
-   * - 02-5-2026
+   * - 03-19-2026
      - All members
      - Progress Update
    * - 03-26-2026
      - Jingyi Liu
-     - `The dark side of the forces: assessing non-conservative
-force models for atomistic machine learning <https://arxiv.org/pdf/2412.11569>`_
+     - `The dark side of the forces: assessing non-conservative force models for atomistic machine learning <https://arxiv.org/pdf/2412.11569>`_
+   * - 04-02-2026
+     - All members
+     - Progress Update
+   * - 04-09-2026
+     - Huiwen Tan
+     - Journal club
 
 Previous Journal Club:
 
@@ -52,6 +47,18 @@ Previous Journal Club:
    * - **Date**
      - **Presenter**
      - **Details**
+   * - 03-12-2026
+     - Zihan Li
+     - `Transferable Enantioselectivity Models from Sparse Data <https://www.nature.com/articles/s41586-026-10239-7>`_
+   * - 02-26-2026
+     - Lewen Wang
+     - `A practical inverse design approach for high-entropy catalysts using generative AI <https://www.nature.com/articles/s44160-025-00983-5>`_
+   * - 01-29-2026
+     - Huiwen Tan
+     - `Managing the Computational Chemistry Big Data Problem: The ioChem-BD Platform <https://pubs.acs.org/doi/10.1021/ci500593j>`_
+   * - 01-16-2026
+     - Jingyi Liu
+     - `Ab initio characterization of protein molecular dynamics with AI2BMD <https://www.nature.com/articles/s41586-024-08127-z>`_
    * - 11-28-2025
      - Zihan Li
      - `Automated exploration of the conformational degrees of freedom along reaction profiles - driving a FASTCAR <https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp01721h>`_
