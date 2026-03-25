@@ -30,7 +30,7 @@ Upcoming Schedule:
      - Progress Update
    * - 03-26-2026
      - Jingyi Liu
-     - Journal club
+     - `The dark side of the forces: assessing non-conservative force models for atomistic machine learning <https://arxiv.org/pdf/2412.11569>`_
    * - 04-02-2026
      - All members
      - Progress Update
