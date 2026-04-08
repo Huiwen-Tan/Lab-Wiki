@@ -25,18 +25,18 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 03-19-2026
-     - All members
-     - Progress Update
-   * - 03-26-2026
-     - Jingyi Liu
-     - `The dark side of the forces: assessing non-conservative force models for atomistic machine learning <https://arxiv.org/pdf/2412.11569>`_
-   * - 04-02-2026
-     - All members
-     - Progress Update
    * - 04-09-2026
      - Huiwen Tan
+     - `AiiDA 1.0, a scalable computational infrastructure for automated reproducible workflows and data provenance <https://www.nature.com/articles/s41597-020-00638-4>`_
+   * - 04-16-2026
+     - All members
+     - Progress Update
+   * - 04-23-2026
+     - Lewen Wang
      - Journal club
+   * - 04-30-2026
+     - All members
+     - Progress Update
 
 Previous Journal Club:
 
@@ -47,6 +47,9 @@ Previous Journal Club:
    * - **Date**
      - **Presenter**
      - **Details**
+   * - 03-26-2026
+     - Jingyi Liu
+     - `The dark side of the forces: assessing non-conservative force models for atomistic machine learning <https://arxiv.org/pdf/2412.11569>`_
    * - 03-12-2026
      - Zihan Li
      - `Transferable Enantioselectivity Models from Sparse Data <https://www.nature.com/articles/s41586-026-10239-7>`_
