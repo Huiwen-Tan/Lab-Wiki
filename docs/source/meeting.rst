@@ -27,7 +27,7 @@ Upcoming Schedule:
      - **Details**
    * - 04-09-2026
      - Huiwen Tan
-     - `AiiDA 1.0, a scalable computational infrastructure for automated reproducible workflows and data provenance <https://www.nature.com/articles/s41597-020-00638-4>`_
+     - `AiiDA: automated interactive infrastructure and database for computational science <https://www.sciencedirect.com/science/article/pii/S0927025615005820>`_
    * - 04-16-2026
      - All members
      - Progress Update
