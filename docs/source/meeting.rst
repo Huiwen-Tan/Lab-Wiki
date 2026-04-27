@@ -47,6 +47,9 @@ Previous Journal Club:
    * - **Date**
      - **Presenter**
      - **Details**
+   * - 04-23-2026
+     - Lewen Wang
+     - `Machine Learning for De Novo Molecular Generation: A Comprehensive Review <https://pubs.acs.org/doi/10.1021/acschemneuro.5c00861>`_
    * - 04-09-2026
      - Huiwen Tan
      - `AiiDA: automated interactive infrastructure and database for computational science <https://www.sciencedirect.com/science/article/pii/S0927025615005820>`_
