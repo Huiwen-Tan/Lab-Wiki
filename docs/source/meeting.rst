@@ -25,18 +25,18 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 04-09-2026
-     - Huiwen Tan
-     - `AiiDA: automated interactive infrastructure and database for computational science <https://www.sciencedirect.com/science/article/pii/S0927025615005820>`_
-   * - 04-16-2026
-     - All members
-     - Progress Update
-   * - 04-23-2026
-     - Lewen Wang
-     - Journal club
    * - 04-30-2026
      - All members
      - Progress Update
+   * - 05-07-2026
+     - Ayson Han
+     - Journal club
+   * - 05-14-2026
+     - All members
+     - Progress Update
+   * - 05-21-2026
+     - Zihan Li
+     - Journal club
 
 Previous Journal Club:
 
@@ -47,6 +47,9 @@ Previous Journal Club:
    * - **Date**
      - **Presenter**
      - **Details**
+   * - 04-09-2026
+     - Huiwen Tan
+     - `AiiDA: automated interactive infrastructure and database for computational science <https://www.sciencedirect.com/science/article/pii/S0927025615005820>`_
    * - 03-26-2026
      - Jingyi Liu
      - `The dark side of the forces: assessing non-conservative force models for atomistic machine learning <https://arxiv.org/pdf/2412.11569>`_
