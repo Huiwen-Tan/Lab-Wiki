@@ -25,17 +25,17 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 04-30-2026
-     - All members
-     - Progress Update
-   * - 05-07-2026
-     - Ayson Han
-     - Journal club
    * - 05-14-2026
      - All members
      - Progress Update
    * - 05-21-2026
      - Zihan Li
+     - Journal club
+   * - 05-28-2026
+     - All members
+     - Progress Update
+   * - 06-04-2026
+     - Jingyi Liu
      - Journal club
 
 Previous Journal Club:
@@ -47,6 +47,9 @@ Previous Journal Club:
    * - **Date**
      - **Presenter**
      - **Details**
+   * - 05-11-2026
+     - Ayson Han
+     - `Open-Source, Python-Based Redevelopment of the ChemShell Multiscale QM/MM Environment <https://pubs.acs.org/doi/full/10.1021/acs.jctc.8b01036>`_
    * - 04-23-2026
      - Lewen Wang
      - `Machine Learning for De Novo Molecular Generation: A Comprehensive Review <https://pubs.acs.org/doi/10.1021/acschemneuro.5c00861>`_
