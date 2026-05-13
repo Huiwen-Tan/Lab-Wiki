@@ -49,7 +49,7 @@ Previous Journal Club:
      - **Details**
    * - 05-11-2026
      - Ayson Han
-     - `Open-Source, Python-Based Redevelopment of the ChemShell Multiscale QM/MM Environment <https://pubs.acs.org/doi/full/10.1021/acs.jctc.8b01036>`_
+     - `gmx_ffconv: A Fast, User-Friendly Semi-Automated All-Atom Force Field Converter for GROMAC <https://doi.org/10.1021/acs.jcim.5c02200>`_
    * - 04-23-2026
      - Lewen Wang
      - `Machine Learning for De Novo Molecular Generation: A Comprehensive Review <https://pubs.acs.org/doi/10.1021/acschemneuro.5c00861>`_
