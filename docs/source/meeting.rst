@@ -25,17 +25,17 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 05-14-2026
-     - All members
-     - Progress Update
-   * - 05-21-2026
-     - Zihan Li
-     - Journal club
    * - 05-28-2026
      - All members
      - Progress Update
    * - 06-04-2026
      - Jingyi Liu
+     - Journal club
+   * - 06-11-2026
+     - All members
+     - Progress Update
+   * - 06-18-2026
+     - Thomas Yeung
      - Journal club
 
 Previous Journal Club:
@@ -47,6 +47,9 @@ Previous Journal Club:
    * - **Date**
      - **Presenter**
      - **Details**
+   * - 05-21-2026
+     - Zihan Li
+     - `Hybrid Computational Strategy for Predicting Complex Ligand–Metal Architectures <https://onlinelibrary.wiley.com/doi/10.1002/anie.202524655>`_
    * - 05-11-2026
      - Ayson Han
      - `gmx_ffconv: A Fast, User-Friendly Semi-Automated All-Atom Force Field Converter for GROMAC <https://doi.org/10.1021/acs.jcim.5c02200>`_
