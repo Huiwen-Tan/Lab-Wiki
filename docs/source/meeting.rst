@@ -25,17 +25,17 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 05-28-2026
-     - All members
-     - Progress Update
-   * - 06-04-2026
-     - Jingyi Liu
-     - Journal club
-   * - 06-11-2026
+   * - 06-15-2026
      - All members
      - Progress Update
    * - 06-18-2026
      - Thomas Yeung
+     - Journal club
+   * - 06-25-2026
+     - Huiwen Tan
+     - Progress Update
+   * - 07-09-2026
+     - Huiwen Tan
      - Journal club
 
 Previous Journal Club:
