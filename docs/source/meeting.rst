@@ -6,7 +6,7 @@ For details about the group's schedule, please contact Professor Zhang to be add
 Progress Update / Journal Club
 --------------------------------
 
-**Every Thursday from 3:00 PM to 5:00 PM (Hong Kong time)**, we alternate between a Progress Update and a Journal Club. Join via `Microsoft Teams Link <teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ1OWNhYzAtODk0YS00MTU4LTgyZDUtYjgyZGExYThlMjI4%40thread.v2/0?context=%7b"Tid"%3a"a2c8f93f-126b-4596-a360-8941a8984b08"%2c"Oid"%3a"a01f610e-456a-478e-a980-248fa8edd125"%7d>`_.
+**Every Friday from 9:00 AM to 11:00 AM (Hong Kong time)**, we alternate between a Progress Update and a Journal Club. Join via `Microsoft Teams Link <teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ1OWNhYzAtODk0YS00MTU4LTgyZDUtYjgyZGExYThlMjI4%40thread.v2/0?context=%7b"Tid"%3a"a2c8f93f-126b-4596-a360-8941a8984b08"%2c"Oid"%3a"a01f610e-456a-478e-a980-248fa8edd125"%7d>`_.
 
 - During the **Progress Update**, please share your project progress from the past two weeks — Professor Zhang will join us for helpful discussions.
 
@@ -25,18 +25,31 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 06-15-2026
+   * - 07-17-2026
      - All members
      - Progress Update
-   * - 06-18-2026
-     - Thomas Yeung
+   * - 07-24-2026
+     - Andrei Macrineanu
      - Journal club
-   * - 06-25-2026
-     - Huiwen Tan
+   * - 07-31-2026
+     - All members
      - Progress Update
-   * - 07-09-2026
-     - Huiwen Tan
+   * - 08-07-2026
+     - Jiseung Hong
      - Journal club
+   * - 08-14-2026
+     - All members
+     - Progress Update
+   * - 08-21-2026
+     - Ryan Leung
+     - Journal club
+   * - 08-28-2026
+     - All members
+     - Progress Update
+   * - 09-04-2026
+     - Kenyon Chow
+     - Journal club
+
 
 Previous Journal Club:
 
@@ -47,6 +60,9 @@ Previous Journal Club:
    * - **Date**
      - **Presenter**
      - **Details**
+   * - 06-04-2026
+     - Jingyi Liu
+     - `Open-Source, Python-Based Redevelopment of the ChemShell Multiscale QM/MM Environment <https://pubs.acs.org/doi/10.1021/acs.jctc.8b01036>`_
    * - 05-21-2026
      - Zihan Li
      - `Hybrid Computational Strategy for Predicting Complex Ligand–Metal Architectures <https://onlinelibrary.wiley.com/doi/10.1002/anie.202524655>`_
