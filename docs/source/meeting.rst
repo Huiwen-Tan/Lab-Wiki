@@ -60,6 +60,12 @@ Previous Journal Club:
    * - **Date**
      - **Presenter**
      - **Details**
+   * - 07-10-2026
+     - Huiwen Tan
+     - `A Review of Automated Workflow Pipelines for Computational Chemists <https://doi.org/10.1002/smtd.202500308>`_
+   * - 06-18-2026
+     - Thomas Yeung
+     - `Rethinking the Nature and Extent of Inductive Effects in Organic Compounds <https://doi.org/10.1021/acs.jchemed.6c00141>`_
    * - 06-04-2026
      - Jingyi Liu
      - `Open-Source, Python-Based Redevelopment of the ChemShell Multiscale QM/MM Environment <https://pubs.acs.org/doi/10.1021/acs.jctc.8b01036>`_
