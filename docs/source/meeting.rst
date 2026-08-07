@@ -14,7 +14,7 @@ Progress Update / Journal Club
 
 For Progress Update, ppt slides are not mandatory, but it is essential to clearly present the work content and the subsequent plan.
 
-For Journal Club, please prepare ppt slides on the paper using :download:`CUHK PPT template <_static/CUHK60_PPT_Template_16-9.pptx>`_, this ppt slides should be understandable by others too and may be uploaded to group site. If the paper touches on additional/related concepts, methods, it will be good to include a brief discussion of those too. Visit `our group website <https://xinglong-zhang.github.io/resources.html>`_ to **access all Journal Club ppt slides!**
+For Journal Club, please prepare ppt slides on the paper using :download:`CUHK PPT template <_static/CUHK60_PPT_Template_16-9.pptx>`, this ppt slides should be understandable by others too and may be uploaded to group site. If the paper touches on additional/related concepts, methods, it will be good to include a brief discussion of those too. Visit `our group website <https://xinglong-zhang.github.io/resources.html>`_ to **access all Journal Club ppt slides!**
 
 Upcoming Schedule:
 
