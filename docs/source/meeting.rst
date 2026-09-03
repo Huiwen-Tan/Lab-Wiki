@@ -6,7 +6,7 @@ For details about the group's schedule, please contact Professor Zhang to be add
 Progress Update / Journal Club
 --------------------------------
 
-**Every Friday from 9:00 AM to 11:00 AM (Hong Kong time)**, we alternate between a Progress Update and a Journal Club. Join via `Microsoft Teams Link <teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ1OWNhYzAtODk0YS00MTU4LTgyZDUtYjgyZGExYThlMjI4%40thread.v2/0?context=%7b"Tid"%3a"a2c8f93f-126b-4596-a360-8941a8984b08"%2c"Oid"%3a"a01f610e-456a-478e-a980-248fa8edd125"%7d>`_.
+**Every Tuesday from 10:30 AM to 12:30 PM (Hong Kong time)**, we alternate between a Progress Update and a Journal Club. Join via `Microsoft Teams Link <teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ1OWNhYzAtODk0YS00MTU4LTgyZDUtYjgyZGExYThlMjI4%40thread.v2/0?context=%7b"Tid"%3a"a2c8f93f-126b-4596-a360-8941a8984b08"%2c"Oid"%3a"a01f610e-456a-478e-a980-248fa8edd125"%7d>`_.
 
 - During the **Progress Update**, please share your project progress from the past two weeks — Professor Zhang will join us for helpful discussions.
 
@@ -25,17 +25,29 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 08-14-2026
+   * - 09-08-2026
      - All members
      - Progress Update
-   * - 08-21-2026
-     - Ryan Leung
+   * - 09-15-2026
+     - Lewen Wang
      - Journal club
-   * - 08-28-2026
+   * - 09-22-2026
      - All members
      - Progress Update
-   * - 09-04-2026
-     - Kenyon Chow
+   * - 09-29-2026
+     - Tingting Liu
+     - Journal club
+   * - 10-06-2026
+     - All members
+     - Progress Update
+   * - 10-13-2026
+     - Zixuan Gai
+     - Journal club
+   * - 10-20-2026
+     - All members
+     - Progress Update
+   * - 10-27-2026
+     - Jiayi Du
      - Journal club
 
 Feel free to read the paper in advance. Please contact Zihan regarding matters related to group meetings.
