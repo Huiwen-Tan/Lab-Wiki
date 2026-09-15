@@ -21,7 +21,17 @@ Getting Started
 6. Get familiar with Vim. This is an editor that you use for editing files on the remote computer, the best way to learn vim is to open a terminal and type vim.
    If it is installed, it should fire up the vim tutorial for you to go through. `Here <https://danielmiessler.com/study/vim/>`_ is a brief introduction to Vim.
 
+7. Get familiar with CHEMSMART, our automation toolkit for computational chemistry. CHEMSMART streamlines the entire computational workflow,
+   from preparing and submitting quantum chemistry calculations to analysing results, performing thermochemistry analyses, managing data,
+   and generating publication-quality figures. Learning CHEMSMART early will greatly improve your efficiency and help you follow the group's
+   recommended workflows. Begin with the video tutorials on `YouTube <https://www.youtube.com/channel/UCq-fIFza6WWS6u4K2VBE75A>`_ and
+   `Bilibili <https://space.bilibili.com/3706942377691650/upload/video>`_, then refer to the CHEMSMART `GitHub repository
+   <https://github.com/xinglong-zhang/chemsmart>`_ and `ReadTheDocs documentation <https://chemsmart.readthedocs.io/en/latest/>`_
+   for installation guides, tutorials, examples, and API documentation.
+
 Computing Resources
 -------------------
 
-
+The group uses the `CUHK High Performance Computing (HPC) Cluster <https://www.cuhk.edu.hk/itsc/hpc/getstart.html>`_
+for computational research. If your project requires access to the HPC cluster, please first obtain approval from Professor Zhang,
+and then contact Huiwen to apply for a cluster account.
